@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATMEGA328PB-AU")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Symbols/ATMEGA328PB-AU.kicad_sym")(options "")(descr ""))
+)
